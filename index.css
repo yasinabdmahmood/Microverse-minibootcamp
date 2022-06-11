@@ -17,10 +17,20 @@
 
 }
 #play_list{
-    background-color:grey;
+    background-color:whitesmoke;
     position:absolute;
     width: 40%;
     height: 90%;
     top:10%;
     left:60%;
+}
+.thumb-image{
+    position: relative;
+    left: 10%;
+    padding: 1%;
+
+}
+#youtube-video{
+   position: absolute;
+   right:0%;
 }
