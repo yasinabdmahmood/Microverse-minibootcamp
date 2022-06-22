@@ -88,3 +88,60 @@
   transform: translateX(5%);
    
 }
+#discription{
+  grid-column: 1;
+  grid-row: 3;
+  transform: translateX(5%);
+}
+#like_button{
+  grid-column: 1;
+  grid-row: 4;
+  transform: translateX(50%);
+  width: 80px;
+  height: 40px;
+  background-image: url("img/like_buttton.PNG");
+}
+#dislike_button{
+  grid-column: 2;
+  grid-row: 4;
+  transform: translateX(50%);
+  width: 80px;
+  height: 40px;
+  background-image: url("img/dislike_button.PNG");
+}
+#share_button{
+  grid-column: 3;
+  grid-row: 4;
+  transform: translateX(50%);
+  width: 80px;
+  height: 40px;
+  background-image: url("img/share_button.PNG");
+}
+#save_button{
+  grid-column: 3;
+  grid-row: 4;
+  transform: translateX(50%);
+  width: 80px;
+  height: 40px;
+  background-image: url("img/save_button.PNG");
+}
+#C1{
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  grid-column: 1;
+  grid-row: 1;
+}
+#comment_block{
+   
+  display: grid;
+  transform: translateX(40px)
+  
+  
+}
+#commentLine1{
+  grid-column: 2;
+  grid-row: 1;
+}
+
+
